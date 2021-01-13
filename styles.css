@@ -1,0 +1,13 @@
+h1 {
+    font-size: 5rem;
+    color: rgb(10, 71, 10);
+}
+li {
+    font-size: 2rem;
+    color:rgb(118, 94, 182);
+    margin: 10px;
+    
+}
+body{
+    background-color:rgb(238, 236, 234);
+}
